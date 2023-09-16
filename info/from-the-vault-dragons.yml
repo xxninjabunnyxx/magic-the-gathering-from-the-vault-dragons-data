@@ -1,0 +1,19 @@
+---
+object: set
+id: c1cec8aa-5906-41d9-ae01-cbdde2e776fb
+code: drb
+mtgo_code: drb
+arena_code: drb
+tcgplayer_id: 47
+name: 'From the Vault: Dragons'
+uri: https://api.scryfall.com/sets/c1cec8aa-5906-41d9-ae01-cbdde2e776fb
+scryfall_uri: https://scryfall.com/sets/drb
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Adrb&unique=prints
+released_at: '2008-08-29'
+set_type: from_the_vault
+card_count: 15
+printed_size: 15
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/drb.svg?1694404800
